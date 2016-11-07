@@ -2,14 +2,15 @@
  The mlaser version is V2.2
 
 #2. Release Note
-## V2.2
+
+# V2.2
   1. fix the issue that unexpectedly prints the anchor point
   2. Modify the code to generate the MAC application
-## V2.1
+# V2.1
   1. fix part of the Chinese-English Translation
   2. fix the display of QR code
   3. fix Gcode mode function
-## V2.0
+# V2.0
   1. Organize the code structure, the first open source in the git
 
 #3. Revision of history
