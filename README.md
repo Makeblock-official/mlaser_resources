@@ -5,7 +5,7 @@ Click to download the installation of the compressed package
  
 [Mac OS](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/mac/mLaser.dmg) 
 
-[Windows](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/windows/mLaserSetup.zip) 
+[Windows](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/windows/mLaserSetup.rar) 
 ## 2. BuildNeed
   Contains all the dependency files needed for compilation
 ## 3. The source link of mlaser
