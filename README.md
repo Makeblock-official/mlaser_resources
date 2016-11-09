@@ -1,5 +1,11 @@
 ## 1. Distribution
-  Including Windows and MACOS installation files
+Including Windows and MACOS installation files
+
+Click to download the installation of the compressed package
+ 
+[Mac OS](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/mac/mLaser.dmg) 
+
+[Windows](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/windows/mLaserSetup.zip) 
 ## 2. BuildNeed
   Contains all the dependency files needed for compilation
 ## 3. The source link of mlaser
