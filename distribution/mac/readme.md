@@ -21,7 +21,7 @@
 
 #3. Revision of history
 |Author      |       Time      |   Version    |    Descr     |
-| --------   |      :-----:    |   :----:     |    :----:    |
+| --------   |      :-----:    |   :----:     |    :-----    |
 |happybird   |     2016/08/07  |   V1.0       |    Initial commit.|
 |happybird   |     2016/10/25  |   V2.0       |    open source release in git|
 |wangleilei  |     2015/10/31  |   V2.1       |    fix JIRA issue MLAS-1.MLAS-2,MLAS-3.|
