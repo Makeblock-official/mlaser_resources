@@ -5,8 +5,8 @@ Click to download the installation of the compressed package
  
 |Version    |System     |DownLoad from Git|DownLoad from Makeblock|
 |:----      |:----      |:----            |:----                  |
-|V2.2       |Mac OS     |[Download Link 1](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/mac/mLaser.dmg)|[Download Link 2](http://download.makeblock.com/laserbot/mLaser.dmg)|
-|V2.2       |Windows    |[Download Link 1](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/windows/mLaserSetup.rar)|[Download Link 2](http://download.makeblock.com/laserbot/mLaserSetup.rar)|
+|V2.3       |Mac OS     |[Download Link 1](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/mac/mLaser.dmg)|[Download Link 2](http://download.makeblock.com/laserbot/mLaser.dmg)|
+|V2.3       |Windows    |[Download Link 1](https://raw.githubusercontent.com/Makeblock-official/mlaser_resources/master/distribution/windows/mLaserSetup.rar)|[Download Link 2](http://download.makeblock.com/laserbot/mLaserSetup.rar)|
 
 ## 2. BuildNeed
   Contains all the dependency files needed for compilation
